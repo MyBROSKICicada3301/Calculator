@@ -1,15 +1,23 @@
-Simple Calculator with Tkinter
+# Calculator with GUI using Tkinter
+This is a simple calculator built using Python's Tkinter library for the graphical user interface (GUI). It supports basic operations like addition, subtraction, multiplication, division, square, square root, and logarithms. Additionally, the app has a high contrast mode for better visibility.
+
+## Features
+- Basic Operations: Perform standard arithmetic operations (addition, subtraction, multiplication, division).
+- Advanced Functions: Includes square (x²), square root (√), and logarithm (log).
+- High Contrast Mode: Toggle between normal and high contrast mode for enhanced visibility.
+- Responsive Design: The calculator interface is designed to be simple and responsive.
+- Customizable Image: Includes an option to add an image alongside the title.
+
+## How to Use
+**Run the App:** Execute the script to launch the calculator.
+
+**Use the Buttons: **Click on the buttons to perform calculations. You can input numbers directly or use the operation buttons (+, -, *, /, etc.).
+
+**Toggle High Contrast Mode:** Click the "High Contrast" button to toggle the background and button color scheme for improved visibility.
+
+**Clear:** Use the "C" button to clear the current input.
 
 
-This is a simple calculator application built using Python's Tkinter library. The calculator supports basic arithmetic operations, square, square root, and logarithmic calculations. Additionally, the app includes a high contrast mode for better visibility.
-
-Features->
-Basic arithmetic operations: Addition, subtraction, multiplication, division.
-Advanced operations: Square, square root, logarithm (base 10).
-High contrast mode: Toggle the color scheme for better visibility.
-
-
-Uses->
--Python 3.x
--Tkinter (usually included in Python's standard library)
--Pillow (for image handling)
+##Sources
+`Python Calculator with GUI using Tkinter in Visual Studio Code`https://www.youtube.com/watch?v=FalR2V2QddI
+`Adding Images To Your Apps - Intro To Tkinter 5`https://www.youtube.com/watch?v=UP_kOuCz88A
