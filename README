@@ -1,0 +1,15 @@
+Simple Calculator with Tkinter
+
+
+This is a simple calculator application built using Python's Tkinter library. The calculator supports basic arithmetic operations, square, square root, and logarithmic calculations. Additionally, the app includes a high contrast mode for better visibility.
+
+Features->
+Basic arithmetic operations: Addition, subtraction, multiplication, division.
+Advanced operations: Square, square root, logarithm (base 10).
+High contrast mode: Toggle the color scheme for better visibility.
+
+
+Uses->
+-Python 3.x
+-Tkinter (usually included in Python's standard library)
+-Pillow (for image handling)
