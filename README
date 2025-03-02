@@ -6,7 +6,6 @@ This is a simple calculator built using Python's Tkinter library for the graphic
 - Advanced Functions: Includes square (x²), square root (√), and logarithm (log).
 - High Contrast Mode: Toggle between normal and high contrast mode for enhanced visibility.
 - Responsive Design: The calculator interface is designed to be simple and responsive.
-- Customizable Image: Includes an option to add an image alongside the title.
 
 ## How to Use
 **Run the App:** Execute the script to launch the calculator.
@@ -19,5 +18,5 @@ This is a simple calculator built using Python's Tkinter library for the graphic
 
 
 ##Sources
-`Python Calculator with GUI using Tkinter in Visual Studio Code`https://www.youtube.com/watch?v=FalR2V2QddI
-`Adding Images To Your Apps - Intro To Tkinter 5`https://www.youtube.com/watch?v=UP_kOuCz88A
+- [Python Calculator with GUI using Tkinter in Visual Studio Code](https://www.youtube.com/watch?v=FalR2V2QddI "Python Calculator with GUI using Tkinter in Visual Studio Code")
+- [Adding Images To Your Apps - Intro To Tkinter 5](https://www.youtube.com/watch?v=UP_kOuCz88A "Adding Images To Your Apps - Intro To Tkinter 5")
