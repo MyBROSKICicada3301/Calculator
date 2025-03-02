@@ -74,10 +74,11 @@ input_value = StringVar()
 title_frame = Frame(main, bg="dark orange")
 title_frame.grid(row=0, column=0, columnspan=4, sticky="w")
 
+#High contrast
 contrast_btn = Button(title_frame, text="High Contrast", font=("arial", 12, "bold"), command=toggleHighContrast, bg="orange", fg="black")
 contrast_btn.pack(side=LEFT)
 
-# Load and display image with text
+#Image and title frame
 image = Image.open("photo/beluga_cat.png")
 image = image.resize((50, 50), Image.LANCZOS)
 img = ImageTk.PhotoImage(image)
@@ -91,6 +92,7 @@ display_text.grid(row=1, column=0, columnspan=4)
 
 buttons = []
 
+# Button layout starting with CLEAR option and ending with EQUAL option
 button_layout =[
 [("C", 2, 0, buttonClear),("7", 3, 0), ("8", 3, 1), ("9", 3, 2), ("+", 3, 3)],
 [("4", 4, 0), ("5", 4, 1), ("6", 4, 2), ("-", 4, 3)],
